@@ -6,13 +6,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
   title: 'Process Management',
   tagline: 'Dinosaurs are cool?!',
-  url: 'https://unitelds.github.io',
-  baseUrl: '/process-doc/',
+  url: 'https://KhishigB.github.io',
+  baseUrl: '/docusaurus/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'unitelds', // Usually your GitHub org/user name.
-  projectName: 'process-doc', // Usually your repo name.
+  organizationName: 'KhishigB', // Usually your GitHub org/user name.
+  projectName: 'docusaurus', // Usually your repo name.
 
   presets: [
     [
